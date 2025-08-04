@@ -1,0 +1,13 @@
+#f{
+    display: flex;
+}
+
+#a{
+    border: 2px solid black;
+    color: aqua;
+}
+
+#b{
+    margin-left: 3rem;
+   margin-top: 2rem;
+}
