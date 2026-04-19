@@ -9,7 +9,7 @@ let text = document.querySelector('.text');
 signinbtn.addEventListener('click',()=>{
     namefield.style.maxHeight = '0';
     title.innerHTML = 'Sign In';
-    text.innerHTML = 'Forgot password';
+    text.innerHTML = 'Forgot password'; 
     signupbtn.classList.add('disable');
     signinbtn.classList.remove('disable');
     underline.style.transform = 'translateX(35px)';
